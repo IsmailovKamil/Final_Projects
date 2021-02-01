@@ -4,7 +4,7 @@ also known as linear mixed-effects regression. Comparing the crime rate
 map with the population map, it's concluded that there is no obvious
 correlation between crime rate changes and the number of populations of
 each county.
-- Final Project of Applied Predictive Analytics Course.
+- Final Project of [Applied Predictive Analytics](https://vsokolov.org/courses/568/index.html) Course.
 - Wrangled the raw data supplied by the State of Maryland. 
 - Analyzed the data using a hierarchical regression to examine both the statewide crime rate and crime rate for each Maryland county.
 - Plotted the changes in crime rates for each county.
