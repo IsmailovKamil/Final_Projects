@@ -1,5 +1,3 @@
-# GMU Final Projects 
-
 ## [Trends in Maryland Crime Rates](https://github.com/IsmailovKamil/Final_Projects/tree/master/Trends%20in%20Maryland%20Crime%20Rates) (SYST 568)
 Built a hierarchical multi-level model, using “lmerTest” package in R, which
 also known as linear mixed-effects regression. Comparing the crime rate
