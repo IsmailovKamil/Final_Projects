@@ -13,3 +13,20 @@ PostgreSQL helped to work with queries. First, I load the dataset in the pgAdmin
 ![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Home%20Team%20Performance.png)
 ...and away team performance
 ![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Away%20Team%20Performance.png)
+
+## Model Building
+Poisson distribution is one of the earliest statistical methods of forecasting sports events because it is discrete probability distribution which can be used to model data that the number of events within a specific time period (e.g. 90 minutes per game) with a known average rate of occurrence and independently of the time since the last event
+<p align="center"> 
+<code> poisson_model <- glm(Goals ~ Home + Team + Opponent, family=poisson(link=log), data=model) </code>
+</p>
+  
+## Model performance
+Simulated the last 10 games using the prediction model and compared it with the real results to check the accuracy of the Poisson model.
+
+![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Predicted_gameweek%20.png) 
+
+<p align="center"> Predicted results </p>
+
+![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Actual_Results.png)
+
+<p align="center"> Actual results </p>
