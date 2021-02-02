@@ -10,3 +10,9 @@ each county.
 - Plotted the changes in crime rates for each county.
 
  ![](https://github.com/IsmailovKamil/Final_Projects/blob/master/Trends%20in%20Maryland%20Crime%20Rates/images/crime_rate_vs_population.jpeg)
+
+## [Exploratory Data Analysis on English Premier League](https://github.com/IsmailovKamil/GMU_Final_Projects/tree/master/EDA%20on%20English%20Premier%20League) (AIT 580)
+- Final Project of [Analytics: Big Data to Information](https://catalog.gmu.edu/search/?P=AIT%20580) Course.
+- Used the dataset and compared the performance of two soccer clubs (Liverpool and Manchester City).
+- Built a Poisson Regression model to predict a number of scored/conceded goals.
+- Checked the model by comparing the last game week.
