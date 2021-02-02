@@ -23,7 +23,9 @@ Poisson distribution is one of the earliest statistical methods of forecasting s
 ## Model performance
 Simulated the last 10 games using the prediction model and compared it with the real results to check the accuracy of the Poisson model.
 
-![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Predicted_gameweek%20.png) 
+<p align="center"> 
+<img src:"https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Predicted_gameweek%20.png"/> 
+</p> 
 
 <p align="center"> Predicted results </p>
 
