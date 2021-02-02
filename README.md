@@ -16,3 +16,7 @@ each county.
 - Used the dataset and compared the performance of two soccer clubs (Liverpool and Manchester City).
 - Built a Poisson Regression model to predict a number of scored/conceded goals.
 - Checked the model by comparing the last game week.
+
+Predicted results             |  Actual results
+:-------------------------:|:-------------------------:
+![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Predicted_gameweek%20.png)  |  ![](https://github.com/IsmailovKamil/GMU_Final_Projects/blob/master/EDA%20on%20English%20Premier%20League/images/Actual_Results.png)
